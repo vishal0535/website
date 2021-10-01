@@ -1,3 +1,3 @@
 # website
 
-<h1>This document is written in englih</h1>
+<h1>This document is written in english</h1>
